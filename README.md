@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Brutheron
-- 👀 I’m interested learning how cool coding can get
-- 🌱 I’m currently learning python at the moment
-- 💞️ I’m looking to collaborate on nothing right now
+Hi!
+
+Currently learning python, and that's it, I will take any tips and tricks 
+
 - 📫 You can reach me at Brutheron@protonmail.com
 
 <!---
