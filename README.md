@@ -13,7 +13,7 @@ Lately, I've been deeply immersed in the world of web development, nurturing a s
 
 ## 🎯 I'm currently focusing on...
 
-Improving my skills in JavaScript, React and Next.js, and exploring more about state management, server-side rendering and static site generation.
+Improving my skills in JavaScript, React and Next.js, enough to consider myself a front-end developer
 
 ## 💼 Projects
 
