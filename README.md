@@ -1,8 +1,6 @@
-# Hello, I'm Fernando! 👋
+# Hello,
 
-I'm a Chemical Engineer with the ambition of transitioning into a "Prompt" Engineer and Web Developer. 
-
-Lately, I've been deeply immersed in the world of web development, nurturing a strong passion for modern technologies such as JavaScript, React, Next.js, and Tailwind CSS. My journey in the field of technology has been both challenging and exciting, and I'm eager to take on more opportunities that will enable me to grow as a developer.
+I'm a Chemical Engineer and Frontend Developer. 
 
 ## 🛠 Skills
 
@@ -13,7 +11,7 @@ Lately, I've been deeply immersed in the world of web development, nurturing a s
 
 ## 🎯 I'm currently focusing on...
 
-Improving my skills in JavaScript, React and Next.js, enough to consider myself a front-end developer
+Creating usefull websites to show as a portfolio.
 
 ## 💼 Projects
 
