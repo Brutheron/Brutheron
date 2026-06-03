@@ -1,33 +1,56 @@
-# Hello,
+# Hello 👋
 
-I'm a Chemical Engineer and Frontend Developer. 
+I'm Fernando Batista, a Frontend Engineer based in Finland, originally from the Dominican Republic.
 
-## 🛠 Skills
+My background combines Chemical Engineering and Software Development, bringing a structured engineering mindset to building modern web applications.
 
-- Strong foundation in JavaScript, and experienced in developing applications using React and Next.js.
-- Proficient in developing responsive UI with Tailwind CSS.
-- Understanding of good software design and best practices.
-- Problem-solving skills, with an ability to learn quickly and adapt in the ever-evolving field of technology.
+## 🛠 Tech Stack
 
-## 🎯 I'm currently focusing on...
+- JavaScript / TypeScript
+- React
+- Next.js
+- HTMX
+- Tailwind CSS
+- Django
+- Git & GitHub
 
-Creating usefull websites to show as a portfolio.
+## 💼 What I Do
 
-## 💼 Projects
+I design and build responsive, user-focused web applications with an emphasis on:
 
-Coming soon! I'm working on a couple of exciting projects that I'll be sharing here.
+- Frontend architecture
+- Performance and accessibility
+- Responsive design
+- Maintainable and scalable codebases
+- User experience and product development
 
-## 📫 How to reach me
+## 🚀 Current Interests
 
-You can contact me via email `brutheron+githubreadme@pm.me`.
+Lately I've been exploring:
 
+- Self-hosting and home servers
+- Automation with n8n
+- HTMX and server-driven applications
+- Personal productivity tools
+- Building useful software for everyday life
+
+## 📂 Projects
+
+Some projects I'm currently working on include:
+
+- A family recipe management platform
+- Personal automation workflows
+- Self-hosted services and home infrastructure
+- Various web applications and experiments
+
+Some of the projects will be public here soon.
+
+## 📫 Contact
+
+You can reach me at:
+
+brutheron+githubreadme@pm.me
 
 ---
 
-⭐️ From [Fernando](https://github.com/YourGitHubUsername)
-
-
-<!---
-Brutheron/Brutheron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐️ Thanks for visiting my profile.
